@@ -21,7 +21,7 @@ Files for research projet on flow instability develloped at PMMH with Laurette T
 - Heat equation solved with finite difference method in space and runge kutta 4.5 in time
 - Couette flow equations proposed by Dwight Barkley "Modeling the transition to turbulence in shear flows" implemented in finite difference with runge kutta 4.5 in time
 
-## `iamge_recognition`
+## `image_recognition`
 ### Image recognition methods studied during computer vision course at ENSTA
 #### 2020 - 2A ENSTA Paris
 - `Python` : cv2, scikit-learn, pandas, Matplotlib
