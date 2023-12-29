@@ -2,6 +2,12 @@
 ##### This is a repository of different projects and toy codes that I have done 
 ##### Many of the projects presented here have been edited or taken out of their most practical context for this overview.
 
+## `movie_recommendation_model`
+### Content-based recommendation model with Gradient-Boosting Regressor
+- `Python` : pandas, numpy, lightgbm, matplotlib
+
+Entire workflow of the construction of a content-based recommendation model for movies using Gradient-Boosting Machine. From acquiring the data, preprocessing it, visualizing the statistics, constructing the feature for the model and finally constructing a recommendation model.
+
 ## `crow_instability`
 ### Simulation and stability analysis of Crow Instability 
 #### 2021 - M2 Fluid Mechanics at X.
